@@ -1,0 +1,16 @@
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\bin\Debug\net8.0-windows\IT488 M2 Speedcube Timer.exe
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\bin\Debug\net8.0-windows\IT488 M2 Speedcube Timer.deps.json
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\bin\Debug\net8.0-windows\IT488 M2 Speedcube Timer.runtimeconfig.json
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\bin\Debug\net8.0-windows\IT488 M2 Speedcube Timer.dll
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\bin\Debug\net8.0-windows\IT488 M2 Speedcube Timer.pdb
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\obj\Debug\net8.0-windows\IT488_M2_Speedcube_Timer.Form1.resources
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\obj\Debug\net8.0-windows\IT488 M2 Speedcube Timer.csproj.GenerateResource.cache
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\obj\Debug\net8.0-windows\IT488 M2 Speedcube Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\obj\Debug\net8.0-windows\IT488 M2 Speedcube Timer.AssemblyInfoInputs.cache
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\obj\Debug\net8.0-windows\IT488 M2 Speedcube Timer.AssemblyInfo.cs
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\obj\Debug\net8.0-windows\IT488 M2 Speedcube Timer.csproj.CoreCompileInputs.cache
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\obj\Debug\net8.0-windows\IT488 M2 Speedcube Timer.dll
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\obj\Debug\net8.0-windows\refint\IT488 M2 Speedcube Timer.dll
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\obj\Debug\net8.0-windows\IT488 M2 Speedcube Timer.pdb
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\obj\Debug\net8.0-windows\IT488 M2 Speedcube Timer.genruntimeconfig.cache
+C:\Users\Ianwu\source\repos\IT488 M2 Speedcube Timer\obj\Debug\net8.0-windows\ref\IT488 M2 Speedcube Timer.dll
