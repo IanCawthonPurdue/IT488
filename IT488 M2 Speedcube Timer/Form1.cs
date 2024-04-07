@@ -16,12 +16,15 @@ namespace IT488_M2_Speedcube_Timer
         private void submitSolveData(String session, DateTime dateAndTime, String Puzzle, TimeSpan solveTime, String Scramble)
         {
             SqlConnection connection = new SqlConnection(connectionString);
-            connection.Open();
-
-            string query = "INSERT INTO dbo.Solves (Session, Date_and_Time, Puzzle, SolveTime, Scramble) VALUES ('"+session+"', '"+dateAndTime.ToString()+"', '"+Puzzle+"', '"+solveTime.ToString()+"', '"+Scramble+"')";
-            SqlCommand command = new SqlCommand(query, connection);
-            command.ExecuteNonQuery();
-            connection.Close();
+            bool successfulConnection = tryConnection(connectionString);
+            if (successfulConnection)
+            {
+                connection.Open();
+                string query = "INSERT INTO dbo.Solves (Session, Date_and_Time, Puzzle, SolveTime, Scramble) VALUES ('" + session + "', '" + dateAndTime.ToString() + "', '" + Puzzle + "', '" + solveTime.ToString() + "', '" + Scramble + "')";
+                SqlCommand command = new SqlCommand(query, connection);
+                command.ExecuteNonQuery();
+                connection.Close();
+            }
         }
 
         public Form1()
